@@ -1,0 +1,21 @@
+# 依赖
+node_modules/
+
+# 构建输出
+dist/
+
+# API Key（敏感信息，不要提交）
+api-key.txt
+src/api-key.js
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
