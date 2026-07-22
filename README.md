@@ -21,13 +21,13 @@
 ## 📸 运行效果演示
 ![产品演示动图]
 
-![屏幕录制 2026-07-21 191403](D:\Pictures\屏幕录制 2026-07-21 191403.gif)
+!["C:\Users\林芳玲\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a5b6024a8fdbebdfe92b48f\ai-desktop-designer\images\产品演示动图.gif"]()
 
 ![核心业务流程图]
 
-![](C:\Users\林芳玲\AppData\Roaming\Typora\typora-user-images\image-20260721194528489.png)
+!["C:\Users\林芳玲\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a5b6024a8fdbebdfe92b48f\ai-desktop-designer\images\核心业务流程图1.png"]()
 
-<img src="C:\Users\林芳玲\AppData\Roaming\Typora\typora-user-images\image-20260721194651748.png" alt="image-20260721194651748" style="zoom: 80%;" />
+!["C:\Users\林芳玲\AppData\Roaming\TRAE SOLO CN\ModularData\ai-agent\work-mode-projects\6a5b6024a8fdbebdfe92b48f\ai-desktop-designer\images\核心业务流程图2.png"]()
 
 ## 📦 快速启动
 
